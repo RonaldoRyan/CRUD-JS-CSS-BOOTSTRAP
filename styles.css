@@ -1,0 +1,9 @@
+body{
+    background-color: rgba(0, 0, 0, 0.849);
+    color: rgba(255, 255, 0, 0.645);
+}
+
+.modal-body{
+    background-color: rgba(62, 0, 0, 0.459);
+    color: rgb(255, 255, 255);
+}
